@@ -1,0 +1,25 @@
+{
+  "name": "kpl_putri-naila-salsabila_103122400048_s1se-08-02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^1.16.0",
+    "dotenv": "^17.4.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shunnney/KPL_Putri-Naila-Salsabila_103122400048_S1SE-08-02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Shunnney/KPL_Putri-Naila-Salsabila_103122400048_S1SE-08-02/issues"
+  },
+  "homepage": "https://github.com/Shunnney/KPL_Putri-Naila-Salsabila_103122400048_S1SE-08-02#readme"
+}

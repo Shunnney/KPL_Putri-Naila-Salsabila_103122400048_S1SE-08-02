@@ -1,0 +1,9 @@
+{
+  "name": "hitung-teks",
+  "version": "1.0.0",
+  "description": "Pustaka untuk menghitung huruf dan kata",
+  "type": "module",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}
